@@ -47,8 +47,8 @@
 ## Artifacts
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=UI-UX&theme=radical)](https://github.com/shr3yy/UI-UX)&nbsp;&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=References&theme=vue-dark)](https://github.com/shr3yy/References)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=UI-UX&theme=blue-green)](https://github.com/shr3yy/UI-UX)&nbsp;&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=References&theme=tokyonight)](https://github.com/shr3yy/References)
 
 
 </div>
