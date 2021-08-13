@@ -37,17 +37,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
  
  <p align = "right"> Wanna Connect? <br>
-  <img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/dribbble.png">&nbsp;
-  <img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png">&nbsp;
-  <img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png">&nbsp;
-  <img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png">&nbsp;
+  <a href="https://dribbble.com/shr3yy"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/dribbble.png"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
+  <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
+  <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
 </p>
 
 ---
 ## Artifacts
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=UI-UX&theme=radical)](https://github.com/shr3yy/UI-UX)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=UI-UX&theme=radical)](https://github.com/shr3yy/UI-UX)&nbsp;&nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=References&theme=vue-dark)](https://github.com/shr3yy/References)
 
 
