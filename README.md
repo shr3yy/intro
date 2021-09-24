@@ -13,7 +13,9 @@
     </i>
   </p>
 </h1>
-<p align = "center">Web Developer specialising in UI/UX</p>
+<p align ="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
+</p>
 <img align="right" alt="GIF" src="assets/anime-1628890564788-7832.jpg"  width="500" height="auto" />
 
 **<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
@@ -47,8 +49,10 @@
 ## Artifacts
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=UI-UX&theme=blue-green)](https://github.com/shr3yy/UI-UX)&nbsp;&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shr3yy&repo=References&theme=tokyonight)](https://github.com/shr3yy/References)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyanshmalvya&repo=UI-UX&theme=tokyonight)](https://github.com/shreyanshmalvya/UI-UX)
+  &nbsp;&nbsp;
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyanshmalvya&repo=caprice&theme=tokyonight)](https://github.com/shreyanshmalvya/Caprice) -->
+![My stats](https://github-readme-stats.vercel.app/api?username=shreyanshmalvya&show_icons=true&theme=tokyonight)
 
 
 </div>
