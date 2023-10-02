@@ -1,65 +1,24 @@
-<h1>
-  <p align="center">
-    <i
-      ><img
-        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
-        width="30px"
-      />
-      Hi, I'm Shreyansh
-      <img
-        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
-        width="30px"
-      />
-    </i>
-  </p>
-</h1>
-<p align ="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
-</p>
-<img align="right" alt="GIF" src="assets/anime-1628890564788-7832.jpg"  width="500" height="auto" />
-
-**<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
-
-- Doing my Bachelor in "Computer Scinece and Engineering";
-- Creating new UI renders every week at [UI/UX](https://github.com/shr3yy/UI-UX); 
-- Trying to <i>merge</i> my life with <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-        width="20px"
-      />;
-- On my way for *DevOps*;
-- Work? Talk? Suggestions? : shreyanshmalvya@gmail.com ;
-
-**👨🏻‍💻 Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
- 
- <p align = "right"> Wanna Connect? <br>
-  <a href="https://dribbble.com/shr3yy"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/dribbble.png"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/shr3yy/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png"></a>&nbsp;
-  <a href="https://www.instagram.com/shreyanshmalvya/"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/instagram.png"></a>&nbsp;
-  <a href="https://open.spotify.com/user/h1mc01zkxb1qy76ziqozb6h81"><img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/spotify.png"></a>&nbsp;
-</p>
-
----
-## Artifacts
-<div align=center>
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyanshmalvya&repo=UI-UX&theme=tokyonight)](https://github.com/shreyanshmalvya/UI-UX)
-  &nbsp;&nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyanshmalvya&repo=caprice&theme=tokyonight)](https://github.com/shreyanshmalvya/Caprice) -->
-![My stats](https://github-readme-stats.vercel.app/api?username=shreyanshmalvya&show_icons=true&theme=tokyonight)
-
-
-</div>
-
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
+  <h1>Hi, I'm Shreyansh</h1>
+  <img src="https://i.pinimg.com/564x/23/c5/0e/23c50efa7e6c8a232428d0e03014e919.jpg" alt="Shreyansh's Image" width="50%">
+  <br /><br />
+  <p><i>An enthusiastic developer with a profound interest in system architecture</i></p>
+  <hr />
+  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 </div>
-
----
